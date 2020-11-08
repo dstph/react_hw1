@@ -1,0 +1,17 @@
+.button{
+	margin: 10px;
+	padding: 10px;
+	background-color: rgb(5 255 128 / 2%);
+	border: medium double black;
+	font-size: 12px;
+}
+.error{
+	color: red;
+	border: medium double red;
+}
+.success{
+	color: green;
+	border: medium double green;
+}
+
+/*# sourceMappingURL=btn-style.css.map */
